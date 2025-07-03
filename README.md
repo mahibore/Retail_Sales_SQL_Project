@@ -200,7 +200,7 @@ Most profitable months (highest average sales) were identified using SQL RANK() 
 This project demonstrates the power of SQL in solving business problems using raw retail data. With proper data cleaning and well-crafted queries, valuable insights can be extracted to inform strategic decisions like targeted marketing, optimized stock management, and peak-time staffing.
 
 **Author:** Mahesh Bore  
-[Mail_id]:(maheshbore432.in@gmail.com) 
+![Mail_id]:(maheshbore432.in@gmail.com) 
 Location: Telangana, India  
 Linkedin: (https://www.linkedin.com/in/maheshbore03/)
 
