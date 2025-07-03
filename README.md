@@ -188,7 +188,21 @@ FROM hourly_sale
 GROUP BY shift
 ```
 
+## Key Findings
+Top 5 Customers contributed significantly to total revenue.
+Clothing and Electronics were among the most sold categories.
+November 2022 saw a spike in clothing sales.
+The Beauty category attracted customers with an average age of ~30.
+Evening shift recorded the highest number of transactions.
+Most profitable months (highest average sales) were identified using SQL RANK() function and windowing techniques.
 
+## Conclusion
+This project demonstrates the power of SQL in solving business problems using raw retail data. With proper data cleaning and well-crafted queries, valuable insights can be extracted to inform strategic decisions like targeted marketing, optimized stock management, and peak-time staffing.
+
+**Author:** Mahesh Bore  
+📧 Email: maheshbore432.in@gmail.com 
+📍 Location: Telangana, India  
+!🌐 Portfolio: (https://www.linkedin.com/in/maheshbore03/)
 
 
 
