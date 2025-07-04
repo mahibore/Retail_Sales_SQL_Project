@@ -202,6 +202,8 @@ This project demonstrates the power of SQL in solving business problems using ra
 - **Instagram**: (https://www.instagram.com/decent_mahi03/)
 - **LinkedIn**: (https://www.linkedin.com/in/maheshbore03/)
 
+- [Linkedin](https://www.linkedin.com/in/maheshbore03/)
+
 Thank you for your support, and I look forward to connecting with you! 
 
 
